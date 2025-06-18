@@ -2,8 +2,8 @@
     "study": "Author of the study and year of publication",
     "condition_arm1": "condition in the first arm (psil = psilocybin)",
     "condition_arm2": "condition in the second arm (psil = psilocybin, wl = waitlist control, ncn = niacin,pcb = placebo,",
-    "multi_arm1": "psilocybin dose of the first arm (for studies in which second arm is also psilocybin)",
-    "multi_arm2": "psilocybin dose of the second arm (for studies in which first am is also psilocybin)",
+    "multi_arm1": "distinguishes arms in multi-arm studies (e.g. dose of psilocybin)",
+    "multi_arm2": "distinguishes arms in multi-arm studies (e.g. dose of psilocybin)",
     "outcome_type": "how the outcome is reported (change = change from baseline score, msd = endpoint mean and standard deviation, response = response (dichotomous outcome), remission = remission (dichotomous outcome), imsd = imputed endpoint mean and standard deviation (calculated for studies initially reported only as change from baseline) ",
     "instrument": "depression instrument used to measure outcome",
     "rating": "describes who administers or completes the depression instrument (clinician = clinician-rated scale, self-report = self-report scale)",
@@ -68,5 +68,4 @@
     ".event_arm2": "calculated number of events in arm 2 (see event_arm2)",
     ".totaln_arm1": "calculated total number of participants in arm 1 (see totaln_arm1)",
     ".totaln_arm2": "calculated total number of participants in arm 2 (see totaln_arm2)"
-
 }
