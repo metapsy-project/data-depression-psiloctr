@@ -1,5 +1,7 @@
 ## **The `data-depression-psiloctr` dataset** 📊 
 
+[<img src="https://img.shields.io/badge/DOI-10.5281%2Fzenodo.15714852-blue">](https://doi.org/10.5281/zenodo.15714852) 
+
 The `data-depression-psiloctr` dataset is a meta-analytic research domain ([MARD](https://docs.metapsy.org/uploads/ebmental-2022-300509.pdf)) 
 on psilocybin-assisted therapies for adults with depressive symptoms. 
 This MARD is part of the  [Metapsy project](https://www.metapsy.org/). 
