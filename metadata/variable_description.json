@@ -59,6 +59,7 @@
     "blinding": "specifies whether the study was double-blind or not (open-label = open-label waitlist study, double-blind = double-blind study)",
     "doi": "DOI of the paper",
     "registration_number": "registration number of study in clinicalTrials.gov",
+    "full_ref": "full citation of the paper",
     ".id": "row identification, comprised of study author and year of publication, outcome type, instrument, time, rating, condition_arm1, condition_arm2, multi_arm1, and multi_arm2, separated by underscores",
     ".g": "calculated Hedges' g score (for continuous outcomes)",
     ".ge_se": "calculated standard error of Hedges' g score (for continuous outcomes)",
