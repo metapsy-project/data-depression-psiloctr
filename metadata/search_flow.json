@@ -1,18 +1,18 @@
 {
-    "database.hits": 2231,
-    "database.hits.duplicates.removed": 740,
-    "records.screened": 754,
-    "full.text.assessed.for.eligibility": 61,
+    "database.hits": 8174,
+    "database.hits.duplicates.removed": 5670,
+    "records.screened": 1103,
+    "full.text.assessed.for.eligibility": 86,
     "full.text.excluded.reasons": 
     {
-        "Wrong comparator": 15,
-        "Re-analysis/Secondary report": 9,
-        "Not an RCT": 7,
-        "Conference abstract - full text already included": 6,
-        "Wrong outcomes/no mood outcomes": 6,
-        "Protocol/incomplete study": 3,
-        "non-English language": 3,
-        "Wrong patient population": 2
+        "Re-analysis/Secondary report": "37",
+        "Not an RCT": "11",
+	"Wrong outcomes/no mood outcomes": "8",
+        "Conference abstract - full text already included": "6",
+	"Protocol/incomplete study": "3",
+	"non-English language": "1",
+	"Wrong patient population": "3",
+	"Preprint/conference poster": "2"
     },
-    "included": 12
+    "included": 15
 }
