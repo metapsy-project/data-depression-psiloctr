@@ -6,7 +6,7 @@ The `data-depression-psiloctr` dataset is a meta-analytic research domain ([MARD
 on psilocybin-assisted therapies for adults with depressive symptoms. 
 This MARD is part of the  [Metapsy project](https://www.metapsy.org/). 
 The date of the last search update is provided [here](https://github.com/metapsy-project/data-depression-psiloctr/blob/master/metadata/last_search.txt). 
-This dataset includes **psilocybin-assisted therapy vs. control ('psy vs ctr')** comparisons. Effect sizes are provided for outcomes at post-test and long-term follow-ups, if available. 
+This dataset includes **psilocybin therapies vs. control ('psilo vs ctr')** comparisons. Effect sizes are provided for outcomes at post-test and long-term follow-ups, if available. 
 
 This living database has been developed by the [**Sypres**](https://sypres.io/) (Synthesis of Psychedelic Research Studies) Collaboration. Further information on Sypres and its underlying methodology can be found in this  [published article](https://sypres.io/assets/pdfs/natmh2025.pdf).
 
